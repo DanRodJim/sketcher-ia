@@ -1,0 +1,21 @@
+canvas { 
+    border: 1px solid black; 
+}
+
+#myCanvas {
+    float:left;
+}
+legend {
+    font-family:Arial;
+    font-size:20px;
+    float:left;
+    margin-top:50px;
+    width :295px;
+}
+#tip {
+    background-color:white;
+    border:1px solid #808080;
+    position:absolute;
+    left:-200px;
+    top:100px;
+}
